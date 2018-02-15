@@ -1,3 +1,3 @@
-var board;
+board;
 board = [];
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "];
